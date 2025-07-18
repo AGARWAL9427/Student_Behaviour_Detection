@@ -3,14 +3,15 @@
 This project uses YOLOv11 for detecting multiple classroom behaviors from images using the SCB5 dataset.
 
 ## 📊 Best Results Achieved
-| Behavior Class            | Accuracy (mAP@100) |
+| Behavior Class            | Accuracy (mAP50) |
 |--------------------------|-------------------|
 | Blackboard Screen Reverse| 98.5%             |
-| Blackboard + Teacher     | 93.5%             |
+| Blackboard + Teacher     | 94.7%             |
 | Talking Teacher Behavior | 82.7%             |
-| Student Writing          | 72.0              |
-| Student Standing         | 67.4              |
-| Group Discussion         | 61.2              |
+| Student Talk             | 76.0              |
+| Student Hand Raising     | 63.5              |
+
+
 
 
 ## 🧠 Key Features
